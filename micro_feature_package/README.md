@@ -1,6 +1,6 @@
 # micro_feature_package
 
-Developed with 💙 by [Pedro Zaroni][mugbug] 🦄
+Developed with 💙 by [Pedro Zaroni][mugbug]
 
 [![Powered by Mason](https://img.shields.io/endpoint?url=https%3A%2F%2Ftinyurl.com%2Fmason-badge)](https://github.com/felangel/mason)
 
@@ -23,6 +23,7 @@ Out of the box, this template includes:
 ├── .gitignore
 ├── lib
 │   ├── src
+│   │   ├── di
 │   │   └── features
 │   │       └── feature_name
 │   │           ├── presentation
