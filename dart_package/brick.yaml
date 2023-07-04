@@ -1,6 +1,6 @@
 name: dart_package
 description: A simple dart package
-
+repository: https://github.com/mugbug/bricks/tree/main/dart_package
 version: 0.1.0+1
 
 environment:

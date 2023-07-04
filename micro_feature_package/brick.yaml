@@ -1,6 +1,6 @@
 name: micro_feature_package
 description: Opinionated flutter package for a micro feature
-
+repository: https://github.com/mugbug/bricks/tree/main/micro_feature_package
 version: 0.1.0+1
 
 environment:
