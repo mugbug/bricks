@@ -1,5 +1,5 @@
 name: dart_package
-description: A new brick created with the Mason CLI.
+description: A simple dart package
 
 # The following defines the brick repository url.
 # Uncomment and update the following line before publishing the brick.
