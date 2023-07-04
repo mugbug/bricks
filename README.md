@@ -13,7 +13,7 @@ $ dart install.dart
 | Name | Description |
 | --- | --- |
 | [micro_feature_package](./micro_feature_package/README.md) | Opinionated flutter package for a micro feature |
-| [dart_package](./dart_package/README.md) | Opinionated flutter package for a micro feature |
+| [dart_package](./dart_package/README.md) | A simple dart package |
 
 ## Usage
 
