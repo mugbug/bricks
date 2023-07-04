@@ -14,6 +14,7 @@ Out of the box, this template includes:
 - ✅ Opinionated code structure to implement a simple feature - The code is already separated in three main folders -- Presentation, Business Logic and Data -- as a suggestion on how to organize the code for your feature.
 - ✅ Bloc - Integrated bloc architecture for scalable, testable code which offers a clear separation between business logic and presentation
 - ✅ Widget and Unit tests examples for all classes
+- ✅ Shared unit test `setUp` and `tearDown` via the `flutter_test_config.dart` convention file.
 - ✅ Json Serialization via code gen
 - 🚧 with more to come soon...
 
